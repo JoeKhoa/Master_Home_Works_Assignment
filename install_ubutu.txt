@@ -1,0 +1,87 @@
+sudo apt update
+PDF 
+oku
+TWEAK
+sudo apt install gnome-tweak-tool
+
+Python_3 ( py_3 defautl on ubuntu)
+
+PIP2
+sudo apt install python2
+sudo apt-get install python2-pip
+
+PIP3
+sudo apt-get install python3-pip
+pip3 install --upgrade pip
+
+	
+jupyter notebook
+ALL
+	sudo -H pip install jupyter
+pip3 install jupyter
+pip3 uninstall jupyter
+
+pip3 install numpy
+pip3 install matplotlib
+pip3 install notebook
+
+
+GIT
+*** Create git for HOME WORK/ ASSIGMENT
+install_all_
+1.git init
+2.git config user.name "someone"
+3.git config user.email "someone@someplace.com"
+4.git add *
+5.git commit -m "some init msg"
+
+
+
+
+DOCKER_INSTALL
+sudo apt install docker-compose
+ERROR PERMISSION_DENIAL
+sudo chmod -R 777 /var/run/docker.sock
+
+TREE
+
+tree -L 3
+sudo apt install tree 
+
+****************************DJANGO and VENV****************************
+
+INSTALL_DJANGO_VIRTUAL_ENV
+https://gist.github.com/Geoyi/d9fab4f609e9f75941946be45000632b
+https://tutorial.djangogirls.org/en/installation/#pythonanywhere
+
+pip3 install virtualenv
+sudo pip3 install virtualenv 
+# Now create a virtual environment
+virtualenv venv 
+source venv/bin/activate
+deactivate
+
+python -m pip install --upgrade pip
+djangogirls
+├── myvenv
+│   └── ...
+└───requirements.txt
+*************** inside "venv"
+	pip install -r requirements.txt
+	eg: 
+
+
+********** DJANGO 
+
+https://tutorial.djangogirls.org/en/django_installation/
+https://tutorial.djangogirls.org/en/django_start_project/
+django-admin startproject excel_project
+python3 manage.py startapp excel_app
+python3 manage.py runserver 8080
+
+
+
+
+
+
+
