@@ -1,0 +1,21 @@
+
+https://stackoverflow.com/questions/4918425/subtract-a-value-from-every-number-in-a-list-in-python
+
+		import numpy
+
+		array = numpy.array([49, 51, 53, 56])
+		array = array - 13
+		will output:
+
+		array([36, 38, 40, 43])
+
+____________________________________________________________________________________________________________
+
+mutiplication 2 vector 
+
+x*y = [x*y .... xn*yn]T
+
+
+ALL OPERRATE, CALCULUS
+
+https://thispointer.com/delete-elements-rows-or-columns-from-a-numpy-array-by-index-positions-using-numpy-delete-in-python/#:~:text=Delete%20a%20column%20in%20Numpy,and%20index%20of%20column%20i.e.&text=It%20will%20delete%20the%20column,above%20created%202D%20numpy%20array.
