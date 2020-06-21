@@ -1,0 +1,13 @@
+
+OFFICIAL
+https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html#Inputs+and+Outputs
+
+
+https://www.guru99.com/learn-hadoop-in-10-minutes.html
+
+https://www.guru99.com/create-your-first-hadoop-program.html
+
+
+
+https://www.tutorialspoint.com/hadoop/hadoop_mapreduce.htm
+https://www.tutorialspoint.com/hadoop/hadoop_big_data_overview.htm
